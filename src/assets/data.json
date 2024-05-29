@@ -7,23 +7,23 @@
     "buttons": [
       {
         "label": "Automatisation de la paie",
-        "icon": "setting"
+        "icon": "automation"
       },
       {
         "label": "Veille légale et conventionnelle",
-        "icon": "eye"
+        "icon": "transparency"
       },
       {
         "label": "Gestion des déclarations sociales",
-        "icon": "todo"
+        "icon": "employee_space"
       },
       {
         "label": "Graphiques et exports",
-        "icon": "graph"
+        "icon": "exports"
       },
       {
         "label": "Dons sur salaire",
-        "icon": "salary"
+        "icon": "manager_space"
       }
     ]
   },
