@@ -1,0 +1,56 @@
+{
+  "hero": {
+    "title": "Paie et déclarations",
+    "subtitle": "Vous n'êtes pas experts ? Nous le sommes !/n Avez PayFit, gagnez en temps, sérénité et contrôle sur votre gestion de la paie. ",
+    "videoThumbnail": "https://www.startupbegins.com/wp-content/uploads/2018/05/PayFit-001-900x596.jpg",
+    "video": "https://www.youtube.com/watch?v=RScxbK7MLHY",
+    "buttons": [
+      {
+        "label": "Automatisation de la paie",
+        "icon": "setting"
+      },
+      {
+        "label": "Veille légale et conventionnelle",
+        "icon": "eye"
+      },
+      {
+        "label": "Gestion des déclarations sociales",
+        "icon": "todo"
+      },
+      {
+        "label": "Graphiques et exports",
+        "icon": "graph"
+      },
+      {
+        "label": "Dons sur salaire",
+        "icon": "salary"
+      }
+    ]
+  },
+  "accordionSection": {
+    "surTitle": "AUTOMATISATION DE LA PAIE",
+    "title": "90% de temps gagné chaque mois sur votre paie, et des bulletins actualisés en temps réel",
+    "tabs": [
+      {
+        "label": "Saisie, import ou modification de vos variables",
+        "content": "Vous pouvez saisir, modifier ou importer vos variables de paie jusqu'au dernier moment avant la date de génération de votre paie. Vous gardez la main sur vos variables, du début à la fin.",
+        "image": "https://www.datocms-assets.com/50397/1641548130-1.png?auto=format&w=736"
+      },
+      {
+        "label": "Actualisation et visualisation de vos bulletins de paie",
+        "content": "Dès qu'une variable de paie est ajoutée, vous pouvez prévisualiser les bulletins, automatiquement mis à jour. Vous souhaitez visualiser l'impact en paie de nouvelles variables ? Faites une simulation ! C'est rapide, et possible jusqu'à la date de génération de paie.",
+        "image": "https://www.datocms-assets.com/50397/1641548155-2.png?auto=format&w=736"
+      },
+      {
+        "label": "Génération et distribution automatique de vos bulletins de paie",
+        "content": "Chaque mois, les bulletins de paie sont générés automatiquement à la date que vous choisissez. Si vous avez 10 salariés, cela vous prendra moins d’1 heure. (source : étude Forrester). PayFit s'occupe de prévenir vos employés par mail. lls se connectent sur leur espace pour accéder à leur bulletin de paie.",
+        "image": "https://www.datocms-assets.com/50397/1641548181-3.png?auto=format&w=736"
+      },
+      {
+        "label": "Paiement facilité de vos employés",
+        "content": "Vous pouvez payer directement les salaires et acomptes de vos employés depuis PayFit grâce à nos intégrations bancaires avec les principales banques françaises. Vous pouvez également avoir recours à un fichier SEPA, directement transférable à votre banque.",
+        "image": "https://www.datocms-assets.com/50397/1641548207-4.png?auto=format&w=736"
+      }
+    ]
+  }
+}
